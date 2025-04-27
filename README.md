@@ -1,4 +1,4 @@
-# joined as one of collab on main repo all new updates are directly pushed to original source [here](https://github.com/ravikishore23/Web-Random-Password-Generator)
+# joined as one of Contributors on main repo all new updates are directly pushed to original source [here](https://github.com/ravikishore23/Web-Random-Password-Generator)
 
 # 🌟 Random Password Generator
 

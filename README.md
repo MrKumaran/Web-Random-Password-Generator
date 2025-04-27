@@ -1,3 +1,5 @@
+# joined as one of collab on main repo all new updates are directly pushed to original source [here](https://github.com/ravikishore23/Web-Random-Password-Generator)
+
 # 🌟 Random Password Generator
 
 A clean and simple password generator web app that gives you **two strong random passwords** instantly! Built using **HTML, CSS, and JavaScript** — no backend, no hassle.
